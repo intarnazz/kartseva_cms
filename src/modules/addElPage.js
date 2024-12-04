@@ -21,15 +21,15 @@ const addProduct = (obj, id, per) => {
         <td class="cms-main__container__table-form__table__row__col-sum">$${el.value}
         </td>
         <td class="cms-main__container__table-form__table__row__col-img"><img
-                        src="icons/img.svg" alt="изображение"
+                        src="./src/icons/img.svg" alt="изображение"
                         class="cms-main__container__table-form__table__row__col-img__icon">
         </td>
         <td class="cms-main__container__table-form__table__row__col-edit"><img
-                        src="icons/edit.svg" alt="изменение"
+                        src="./src/icons/edit.svg" alt="изменение"
                         class="cms-main__container__table-form__table__row__col-edit__icon">
         </td>
         <td class="cms-main__container__table-form__table__row__col-delete"><img
-                        src="icons/delete.svg" alt="удаление"
+                        src="./src/icons/delete.svg" alt="удаление"
                         class="cms-main__container__table-form__table__row__col-delete__icon" >
         </td>`
             );
