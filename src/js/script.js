@@ -1,8 +1,6 @@
 "use strict";
 
-function ref(id) {
-  return document.getElementById(id);
-}
+import { ref } from "./utils.js";
 
 const popup = ref("popup");
 
